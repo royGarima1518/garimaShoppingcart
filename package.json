@@ -1,8 +1,8 @@
-"homepage": "https://royGarima1518.github.io/garimaShoppingcart,
 {
   "name": "react-tutorial",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://royGarima1518.github.io/garimaShoppingcart",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
